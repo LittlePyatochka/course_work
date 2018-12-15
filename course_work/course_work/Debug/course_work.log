@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  course_work.cpp
+c:\users\lexic\desktop\программирование\kyr\course_work\course_work\course_work.cpp(317): warning C4101: j: неиспользованная локальная переменная
+c:\users\lexic\desktop\программирование\kyr\course_work\course_work\course_work.cpp(317): warning C4101: i: неиспользованная локальная переменная
+  course_work.vcxproj -> C:\Users\lexic\Desktop\Программирование\kyr\course_work\Debug\course_work.exe
